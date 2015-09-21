@@ -78,10 +78,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Css\alertify.min.css" />
-    <Content Include="Css\demo-files\demo.css" />
-    <Content Include="Css\demo-files\demo.js" />
     <Content Include="Css\estilosMaterPage.css" />
-    <Content Include="Css\fonts\icomoon.svg" />
     <Content Include="Css\main.css" />
     <Content Include="Css\plus.css" />
     <Content Include="Css\Read Me.txt" />
@@ -102,18 +99,6 @@
     <Content Include="Imágenes\error.png" />
     <Content Include="Imágenes\minic.png" />
     <Content Include="index.aspx" />
-    <Content Include="js\alertify.js" />
-    <Content Include="js\alertify.min.js" />
-    <Content Include="js\html5shiv.min.js" />
-    <Content Include="js\jquery.min.js" />
-    <Content Include="js\jssor.js" />
-    <Content Include="js\jssor.slider.js" />
-    <Content Include="js\menu.js" />
-    <Content Include="js\menufijo.js" />
-    <Content Include="js\pace.min.js" />
-    <Content Include="js\particles.js" />
-    <Content Include="js\particulas.js" />
-    <Content Include="js\slider.js" />
     <Content Include="Read Me.txt" />
     <Content Include="style.css" />
     <Content Include="Web.config" />
@@ -219,9 +204,6 @@
     <Content Include="Datos\DataCrearCurso.xsc">
       <DependentUpon>DataCrearCurso.xsd</DependentUpon>
     </Content>
-    <Content Include="Css\fonts\icomoon.eot" />
-    <Content Include="Css\fonts\icomoon.ttf" />
-    <Content Include="Css\fonts\icomoon.woff" />
     <Content Include="Css\selection.json" />
     <None Include="Datos\DataCrearCurso.xsd">
       <Generator>MSDataSetGenerator</Generator>
@@ -244,7 +226,6 @@
     </Content>
     <Content Include="packages.config" />
     <Content Include="selection.json" />
-    <Content Include="js\desktop.ini" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

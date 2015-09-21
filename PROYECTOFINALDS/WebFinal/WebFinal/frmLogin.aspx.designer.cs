@@ -58,15 +58,6 @@ namespace WebFinal {
         protected global::System.Web.UI.WebControls.Button btnInicar;
         
         /// <summary>
-        /// Control linkButtonFac.
-        /// </summary>
-        /// <remarks>
-        /// Campo generado automáticamente.
-        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.LinkButton linkButtonFac;
-        
-        /// <summary>
         /// Control lblMsj.
         /// </summary>
         /// <remarks>

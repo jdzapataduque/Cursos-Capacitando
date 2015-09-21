@@ -81,15 +81,14 @@
             </tr>
             <tr>
                 <td>                        
-                    <asp:LinkButton ID="linkButtonFac" runat="server" CssClass="icon-facebook face fuente" OnClick="linkButtonFac_Click" Width="40%"></asp:LinkButton>
-                      </td>
+                    &nbsp;</td>
             </tr>
             <tr>
                 <td>
                     <asp:Label ID="lblMsj" runat="server" Font-Bold="True" Font-Italic="True" Font-Size="Large" ForeColor="Red"></asp:Label>
                     <br />
                     <div ng-app="">
-                    <h3>Hello {{name}}</h3>
+                    <h3>&nbsp;</h3>
 
                     </div>
                 </td>

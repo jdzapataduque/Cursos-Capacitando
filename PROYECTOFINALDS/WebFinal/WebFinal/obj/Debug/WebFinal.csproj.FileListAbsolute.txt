@@ -71,3 +71,24 @@ D:\Dropbox\WebFinal\Cursos Capacitando Final desarrollo de software\PROYECTOFINA
 D:\Dropbox\WebFinal\Cursos Capacitando Final desarrollo de software\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.pdb
 D:\Dropbox\WebFinal\Cursos Capacitando Final desarrollo de software\PROYECTOFINALDS\WebFinal\WebFinal\bin\Facebook.dll
 D:\Dropbox\WebFinal\Cursos Capacitando Final desarrollo de software\PROYECTOFINALDS\WebFinal\WebFinal\bin\Facebook.xml
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\WebFinal.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\WebFinal.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\Facebook.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\LibChkBoxList.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libConexionBD.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarCombos.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarGrids.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarRBList.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libParametros.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\Facebook.xml
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\LibChkBoxList.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libConexionBD.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarCombos.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarGrids.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libLlenarRBList.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\libParametros.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.csprojResolveAssemblyReference.cache
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\RdlCompile.cache
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\RdlCompile.compiled
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.pdb
