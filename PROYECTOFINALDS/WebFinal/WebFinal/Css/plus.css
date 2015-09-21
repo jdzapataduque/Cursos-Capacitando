@@ -1,0 +1,10 @@
+﻿body {
+    background-image:url("/Imágenes/266037.jpg");
+    background-size:cover;
+     font-family: 'Maven Pro', sans-serif;
+     color:white;
+}
+p {
+    color:white;
+        text-shadow: 2px 2px 4px #000000;
+}

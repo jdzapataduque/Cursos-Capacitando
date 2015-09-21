@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Parametros>
+	<!--Comentario-->
+	<Servidor>JUANDIEGO\SQLEXPRESS</Servidor><!--Nombre del servidor-->
+	<BaseDatos>CURSOSCAPACITANDO</BaseDatos><!--Nombre de la Base de Datos-->
+	<Usuario>PepitoPerez</Usuario>
+	<Clave>usr123</Clave>
+	<SeguridadIntegrada>Si</SeguridadIntegrada>
+</Parametros> 

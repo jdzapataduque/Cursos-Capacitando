@@ -1,0 +1,13 @@
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.dll
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.pdb
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.dll
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.pdb
+E:\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.dll
+E:\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.pdb
+E:\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.csprojResolveAssemblyReference.cache
+E:\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.dll
+E:\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.pdb
+E:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.dll
+E:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\libParametros\LibParametros\bin\Debug\libParametros.pdb
+E:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.dll
+E:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\libParametros\LibParametros\obj\Debug\libParametros.pdb

@@ -1,0 +1,95 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="WebFinal.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="Css/estilosMaterPage.css" rel="stylesheet" />
+    <link href='https://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'/>
+    <title>Cursos Capacitando</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 98%;
+            border: 1px solid #808080;
+        }
+        .auto-style2 {
+            width: 100%;
+            background-color: #2196F3;
+        }
+        .auto-style3 {
+            width: 20%;
+            height: 161px;
+        }
+        .auto-style4 {
+            height: 161px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" class="auto-style1">
+            <tr>
+                <td style="text-align: center;" class="auto-style3">
+                    <asp:Image ID="ImgLogo" runat="server" ImageUrl="~/Imágenes/CAPACITANDO.png" Width="100%" />
+                </td>
+                <td style="text-align: center" class="auto-style4">
+                    <asp:ContentPlaceHolder ID="Encabezado" runat="server">
+                        <table align="center" class="auto-style2" id="tblNombre">
+                            <tr>
+                                <td><h1 style="color: #FFFFFF">CURSOS CAPACITANDO</h1></td>
+                            </tr>
+                        </table>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <asp:ContentPlaceHolder ID="Menu" runat="server">
+                        <asp:TreeView ID="TrvMenu" runat="server" Width="100%" ImageSet="Arrows">
+                            <HoverNodeStyle Font-Underline="True" ForeColor="#5555DD" />
+                            <Nodes>
+                                <asp:TreeNode NavigateUrl="~/FrmInicio.aspx" Text="Inicio" Value="OpcInicio"></asp:TreeNode>
+                                <asp:TreeNode Text="Matrícula" Value="OpcMatricula">
+                                    <asp:TreeNode NavigateUrl="~/FrmEstudiante.aspx" Text="Inscribir Cliente" Value="OpcInscribirCliente"></asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode Text="Programación" Value="OpcProgramación">
+                                    <asp:TreeNode Text="Nuevo Curso" Value="OpcNuevoCurso" NavigateUrl="~/FrmCrearCurso.aspx"></asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode NavigateUrl="~/FrmTemas.aspx" Text="Temas" Value="opcTemas"></asp:TreeNode>
+                                <asp:TreeNode NavigateUrl="~/frmEmpleados.aspx" Text="Empleados" Value="opcEmpleados"></asp:TreeNode>
+                            </Nodes>
+                            <NodeStyle Font-Names="Tahoma" Font-Size="10pt" ForeColor="Black" HorizontalPadding="5px" NodeSpacing="0px" VerticalPadding="0px" />
+                            <ParentNodeStyle Font-Bold="False" />
+                            <SelectedNodeStyle Font-Underline="True" ForeColor="#5555DD" HorizontalPadding="0px" VerticalPadding="0px" />
+                        </asp:TreeView>
+                    </asp:ContentPlaceHolder>
+                </td>
+                <td>
+                    <asp:ContentPlaceHolder ID="Cuerpo" runat="server">
+                        <asp:ScriptManager ID="ScriptManager1" runat="server">
+                        </asp:ScriptManager>
+                        <asp:UpdatePanel ID="UpdatePanel1" runat="server">
+                        </asp:UpdatePanel>
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align: center">
+                    <footer style="width: 100%"><p>
+			<strong>Powered by Juan Diego Zapata y Andres Benavides®</strong>
+		        </p>
+		        <p>C.Capacitando<asp:Image ID="Image1" runat="server" ImageUrl="~/Imágenes/minic.png" Width="2.5%" />
+                        </p>
+                        <p>2015</p>
+                    </footer>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

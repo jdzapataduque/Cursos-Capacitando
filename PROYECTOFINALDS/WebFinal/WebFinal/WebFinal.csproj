@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A8209AD1-B1B5-4D1F-A5A5-105490BE3E26}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebFinal</RootNamespace>
+    <AssemblyName>WebFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Facebook, Version=6.0.10.0, Culture=neutral, PublicKeyToken=58cb4f2111d1e6de, processorArchitecture=MSIL">
+      <HintPath>..\packages\Facebook.7.0.6\lib\net45\Facebook.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="LibChkBoxList">
+      <HintPath>..\..\LibreriasComunes\LibChkBoxList\LibChkBoxList\bin\Debug\LibChkBoxList.dll</HintPath>
+    </Reference>
+    <Reference Include="libConexionBD">
+      <HintPath>..\..\LibreriasComunes\libConexionBD\libConexionBD\bin\Debug\libConexionBD.dll</HintPath>
+    </Reference>
+    <Reference Include="libLlenarCombos">
+      <HintPath>..\..\LibreriasComunes\libLlenarCombos\libLlenarCombos\bin\Debug\libLlenarCombos.dll</HintPath>
+    </Reference>
+    <Reference Include="libLlenarGrids">
+      <HintPath>..\..\LibreriasComunes\libLlenarGrids\libLlenarGrids\bin\Debug\libLlenarGrids.dll</HintPath>
+    </Reference>
+    <Reference Include="libLlenarRBList">
+      <HintPath>..\..\LibreriasComunes\libLlenarRBList\libLlenarRBList\bin\Debug\libLlenarRBList.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Css\alertify.min.css" />
+    <Content Include="Css\demo-files\demo.css" />
+    <Content Include="Css\demo-files\demo.js" />
+    <Content Include="Css\estilosMaterPage.css" />
+    <Content Include="Css\fonts\icomoon.svg" />
+    <Content Include="Css\main.css" />
+    <Content Include="Css\plus.css" />
+    <Content Include="Css\Read Me.txt" />
+    <Content Include="Css\style.css" />
+    <Content Include="Error.aspx" />
+    <Content Include="FrmRpteEstuMatri.aspx" />
+    <Content Include="FrmRpteCrearCurso.aspx" />
+    <Content Include="FrmTemas.aspx" />
+    <Content Include="frmEmpleados.aspx" />
+    <Content Include="FrmCrearCurso.aspx" />
+    <Content Include="FrmEstudiante.aspx" />
+    <Content Include="FrmInicio.aspx" />
+    <Content Include="frmLogin.aspx" />
+    <Content Include="Imágenes\266037.jpg" />
+    <Content Include="Imágenes\buscar.png" />
+    <Content Include="Imágenes\capaci.jpg" />
+    <Content Include="Imágenes\CAPACITANDO.png" />
+    <Content Include="Imágenes\error.png" />
+    <Content Include="Imágenes\minic.png" />
+    <Content Include="index.aspx" />
+    <Content Include="js\alertify.js" />
+    <Content Include="js\alertify.min.js" />
+    <Content Include="js\html5shiv.min.js" />
+    <Content Include="js\jquery.min.js" />
+    <Content Include="js\jssor.js" />
+    <Content Include="js\jssor.slider.js" />
+    <Content Include="js\menu.js" />
+    <Content Include="js\menufijo.js" />
+    <Content Include="js\pace.min.js" />
+    <Content Include="js\particles.js" />
+    <Content Include="js\particulas.js" />
+    <Content Include="js\slider.js" />
+    <Content Include="Read Me.txt" />
+    <Content Include="style.css" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClsCaracteres.cs" />
+    <Compile Include="clsCrearCurso.cs" />
+    <Compile Include="ClsEmpleados.cs" />
+    <Compile Include="clsEstudiante.cs" />
+    <Compile Include="clsLogin.cs" />
+    <Compile Include="clsTemas.cs" />
+    <Compile Include="Datos\DataCrearCurso.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataCrearCurso.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Datos\DataEstudMatri.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataEstudMatri.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRpteEstuMatri.aspx.cs">
+      <DependentUpon>FrmRpteEstuMatri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmRpteEstuMatri.aspx.designer.cs">
+      <DependentUpon>FrmRpteEstuMatri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRpteCrearCurso.aspx.cs">
+      <DependentUpon>FrmRpteCrearCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmRpteCrearCurso.aspx.designer.cs">
+      <DependentUpon>FrmRpteCrearCurso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTemas.aspx.cs">
+      <DependentUpon>FrmTemas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmTemas.aspx.designer.cs">
+      <DependentUpon>FrmTemas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmpleados.aspx.cs">
+      <DependentUpon>frmEmpleados.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmEmpleados.aspx.designer.cs">
+      <DependentUpon>frmEmpleados.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCrearCurso.aspx.cs">
+      <DependentUpon>FrmCrearCurso.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmCrearCurso.aspx.designer.cs">
+      <DependentUpon>FrmCrearCurso.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEstudiante.aspx.cs">
+      <DependentUpon>FrmEstudiante.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmEstudiante.aspx.designer.cs">
+      <DependentUpon>FrmEstudiante.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="FrmInicio.aspx.cs">
+      <DependentUpon>FrmInicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="FrmInicio.aspx.designer.cs">
+      <DependentUpon>FrmInicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.aspx.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLogin.aspx.designer.cs">
+      <DependentUpon>frmLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MasterPage.Master" />
+    <Content Include="Datos\DataCrearCurso.xsc">
+      <DependentUpon>DataCrearCurso.xsd</DependentUpon>
+    </Content>
+    <Content Include="Css\fonts\icomoon.eot" />
+    <Content Include="Css\fonts\icomoon.ttf" />
+    <Content Include="Css\fonts\icomoon.woff" />
+    <Content Include="Css\selection.json" />
+    <None Include="Datos\DataCrearCurso.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataCrearCurso.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Datos\DataCrearCurso.xss">
+      <DependentUpon>DataCrearCurso.xsd</DependentUpon>
+    </Content>
+    <Content Include="Datos\DataEstudMatri.xsc">
+      <DependentUpon>DataEstudMatri.xsd</DependentUpon>
+    </Content>
+    <None Include="Datos\DataEstudMatri.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataEstudMatri.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="Datos\DataEstudMatri.xss">
+      <DependentUpon>DataEstudMatri.xsd</DependentUpon>
+    </Content>
+    <Content Include="packages.config" />
+    <Content Include="selection.json" />
+    <Content Include="js\desktop.ini" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="rptCrearCurso.rdlc" />
+    <EmbeddedResource Include="rptEstuMatri.rdlc" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:8335/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

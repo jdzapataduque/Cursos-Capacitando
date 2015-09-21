@@ -1,0 +1,30 @@
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.dll
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.pdb
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.dll
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.pdb
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.dll
+E:\Dllo Sw 2014-1\Prog_Avanz\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.pdb
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.dll
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.pdb
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.dll
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.pdb
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.dll
+E:\Dllo Sw 2014-1\DlloSw\Practicas\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.pdb
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.dll
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.pdb
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.dll
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\bin\Debug\LibParametros.pdb
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.dll
+E:\___Programación 2014-1\DlloSw\LibreriasComunes\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.pdb
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libConexionBD.dll
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libConexionBD.pdb
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libParametros.dll
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libParametros.pdb
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\obj\Debug\libConexionBD.dll
+E:\delio\k\___Programacion2015_1\DlloSw\Practicas\LibreriasComunes\libConexionBD\LibConexionBD\obj\Debug\libConexionBD.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libConexionBD.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libConexionBD.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libParametros.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\bin\Debug\libParametros.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\obj\Debug\libConexionBD.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\PROYECTOFINALDS\LibreriasComunes\libConexionBD\LibConexionBD\obj\Debug\libConexionBD.pdb

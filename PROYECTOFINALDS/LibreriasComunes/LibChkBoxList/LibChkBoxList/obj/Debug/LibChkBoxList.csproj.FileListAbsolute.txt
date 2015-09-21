@@ -1,0 +1,13 @@
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\LibChkBoxList.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\LibChkBoxList.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\libConexionBD.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\libParametros.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\libConexionBD.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\bin\Debug\libParametros.pdb
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\obj\Debug\LibChkBoxList.csprojResolveAssemblyReference.cache
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\obj\Debug\LibChkBoxList.dll
+D:\Zapata Duque Juan Diego\Visual Studio 2012\Projects\Practica 6\LibChkBoxList\LibChkBoxList\obj\Debug\LibChkBoxList.pdb
+F:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\LibChkBoxList\LibChkBoxList\bin\Debug\LibChkBoxList.dll
+F:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\LibChkBoxList\LibChkBoxList\bin\Debug\LibChkBoxList.pdb
+F:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\LibChkBoxList\LibChkBoxList\obj\Debug\LibChkBoxList.dll
+F:\..Desarollo de software ,Juan diego zapata\Prcatica6\LibreriasComunes\LibChkBoxList\LibChkBoxList\obj\Debug\LibChkBoxList.pdb
