@@ -7,7 +7,9 @@
     <table class="auto-style5">
         <tr>
             <td class="auto-style6"><strong><em>Bienvenido&nbsp;
-                <asp:Label ID="lblUsu" runat="server" Font-Bold="True" Font-Italic="True" ForeColor="#3399FF"></asp:Label>&nbsp;a Sistema de Matrículas CC</em></strong><br />
+                <asp:Label ID="lblUsu" runat="server" Font-Bold="True" Font-Italic="True" ForeColor="#3399FF">
+
+                </asp:Label>&nbsp;a Sistema de Matrículas CC</em></strong><br />
                 </td>
         </tr>
     </table>

@@ -19,6 +19,7 @@ namespace WebFinal
         string strNombreCompl,strDir,strCodEmpl,strCodPago;//Variables mias
         double dblValormatri;
         #endregion
+        static string strUsuario;
 
         #region Metodos Personalizados
 
@@ -284,6 +285,17 @@ namespace WebFinal
         {
             if (!IsPostBack)
             {
+                if (Session["usu"] == null)
+                {
+                    Response.Redirect("Error.aspx");
+                    //mandar a una pagina de error
+                }
+                strUsuario = Session["usu"].ToString();
+
+                if (string.IsNullOrWhiteSpace(strUsuario))
+                {
+                    Response.Redirect("index.aspx");
+                }
                 strNombreApp = System.Reflection.Assembly.GetExecutingAssembly().GetName().Name;
                 LLenarCursos();//Combo
                 LLenarCargos();//RadioButoon
