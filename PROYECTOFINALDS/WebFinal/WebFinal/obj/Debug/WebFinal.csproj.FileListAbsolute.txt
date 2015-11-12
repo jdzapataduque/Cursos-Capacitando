@@ -92,3 +92,6 @@ C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\W
 C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\RdlCompile.compiled
 C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.dll
 C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\obj\Debug\WebFinal.pdb
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\WebFinal.dll.config
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\Microsoft.SqlServer.Types.dll
+C:\Users\Juan Diego Zapata\Documents\GitHub\Cursos-Capacitando\PROYECTOFINALDS\WebFinal\WebFinal\bin\es\Microsoft.SqlServer.Types.resources.dll
